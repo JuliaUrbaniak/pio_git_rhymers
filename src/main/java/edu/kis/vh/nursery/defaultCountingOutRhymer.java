@@ -11,25 +11,14 @@ public class defaultCountingOutRhymer {
         return num12;
     }
 
-    public static void setNum12(int num12) {
-        defaultCountingOutRhymer.num12 = num12;
-    }
-
     public static int getNumMinus1() {
         return numMinus1;
-    }
-
-    public static void setNumMinus1(int numMinus1) {
-        defaultCountingOutRhymer.numMinus1 = numMinus1;
     }
 
     public static int getNum11() {
         return num11;
     }
 
-    public static void setNum11(int num11) {
-        defaultCountingOutRhymer.num11 = num11;
-    }
 
     public int getTotal() {
         return total;
